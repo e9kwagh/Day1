@@ -9,7 +9,7 @@ for i in range(a,b+1):
     li.append(i)
 
     
-sum = sum(li)
+total = sum(li)
 
-print("sum =", sum )
+print("sum =", total )
 print("sum =", addition )
