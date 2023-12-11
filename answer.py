@@ -13,7 +13,7 @@ def answer() :
 
 solve()
 
-#methode 2 optimise : 
+#optimise methode 2 : 
 
 def answer() :
     a = 1000//3
@@ -27,7 +27,7 @@ def answer() :
         if add_five not in li :
             li.append(add_five)
     add =  sum(li)
-
+    
     print("add = ", add)
 
 
